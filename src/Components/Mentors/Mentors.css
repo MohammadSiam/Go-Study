@@ -1,0 +1,8 @@
+.container{
+    text-align: center;
+}
+.persons{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    text-align: center;
+}

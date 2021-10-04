@@ -1,0 +1,23 @@
+.home{
+    margin: 20px;
+    display: grid;
+    grid-template-columns: repeat(2,2fr);
+    
+}
+.info{
+   text-align: center;
+   margin-right: 10px;
+   justify-content: center;
+   
+}
+.info p{
+    margin-top: 10px;
+    font-size: 18px;
+}
+.image-regular img{
+    margin-top: 10px;
+    height: 300px;
+    width: 400px;
+    opacity: .7;
+    margin-left: 100px;
+}

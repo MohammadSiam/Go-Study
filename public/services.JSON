@@ -1,0 +1,46 @@
+[
+    {
+        "key": 1,
+        "name": "GRAPHIC DESIGN",        
+        "Image": "https://i0.wp.com/www.graphic-design-institute.com/wp-content/uploads/2020/02/the-best-applications-to-learn-as-a-graphics-designer.jpg?fit=1200%2C800&ssl=1",      
+        "description": "Graphicriver and freelancing marketplace base graphic design & design concept development based curriculum.",
+        "courseFee":"30000/-"
+    },
+    {
+        "key": 2,
+        "name": "RESPONSIVE WEB DESIGN",        
+        "Image": "https://media.smallbiztrends.com/2013/05/shutterstock_220078570.jpg",      
+        "description": "International marketplace themeforest & freelancing marketplace & standard design concept development course curriculum.",
+        "courseFee":"30000/-"
+    },
+    {
+        "key": 3,
+        "name": "WEB DEVELOPMENT",        
+        "Image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200203200336/13-Things-You-Should-Know-Before-You-Enter-In-Web-Development.png",      
+        "description": "PHP, PHP OOP, MySQL & Laravel base website development, ecommerce development and web application development.",
+        "courseFee":"30000/-"
+    },
+    {
+        "key": 4,
+        "name": "WEB APPLICATION DEVELOPMENT",        
+        "Image": "https://peerbits-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/technology-stack-for-web-application-main.jpg",      
+        "description": "Live project and fully internship based application development course curriculum for student.",
+        "courseFee":"30000/-"
+    },
+    {
+        "key": 5,
+        "name": "FULL STACK WEB DEVELOPMENT",        
+        "Image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png",      
+        "description": "Freelancing marketplace and local market based course curriculum of full stack web development course.",
+        "courseFee":"40000/-"
+    },
+    {
+        "key": 6,
+        "name": "PYTHON WITH DJANGO",        
+        "Image": "https://i.pinimg.com/originals/36/54/e7/3654e7e5cd4023d6a65bb172fb178be0.jpg",      
+        "description": "Web application based python course & good programming concept and freelancing marketplace knowledge.",
+        "courseFee":"30000/-"
+    }
+    
+
+]

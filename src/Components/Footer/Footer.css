@@ -1,0 +1,11 @@
+.footer{
+    text-align: center;
+    background-color: #F8F9FA;
+    padding: 30px;
+    
+}
+.btn-regular{
+    height: 50px;
+    width: 150px;
+    border-radius: 25px;
+}

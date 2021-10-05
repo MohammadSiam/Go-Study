@@ -1,4 +1,4 @@
-## Web-Site Name: Go Study
+## Web-Site Name: Go Study IT Training Center
 [Browse My Project](https://mystifying-turing-3aaa31.netlify.app)
 
 * Using This, You will Get : 
